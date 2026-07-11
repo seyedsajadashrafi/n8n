@@ -1,1 +1,1 @@
-## n8n push bot
+## n8n push bot workflow
